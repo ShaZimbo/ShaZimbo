@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science with HyperionDev and Manchester University
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I grew up in Zimbabwe (hence the "Zimbo" in my username)
+- LinkedIn: www.linkedin.com/in/shanna-jeffries
 
 <!---
 ShaZimbo/ShaZimbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
