@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaZimbo
 - 👀 I’m interested in coding (Python) and data science
-- 🌱 I’m currently learning data science with HyperionDev and Manchester University
+- 🌱 I have completed a data science with HyperionDev and Manchester University
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I grew up in Zimbabwe (hence the "Zimbo" in my username)
 - LinkedIn: www.linkedin.com/in/shanna-jeffries
